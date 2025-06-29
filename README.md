@@ -105,7 +105,7 @@ pip install pandas numpy tensorflow scikit-learn
 ### 💻 Running the Code
 
 ```bash
-python your_script.py
+run all cells in main.ipynb
 ```
 
 ---
@@ -115,7 +115,7 @@ python your_script.py
 ```
 📁 SuperStore-Recommender/
 ├── Superstore.xlsx
-├── main.py
+├── main.ipynb
 ├── .gitignore
 ├── hybrid_recommender_model.h5
 └── README.md
