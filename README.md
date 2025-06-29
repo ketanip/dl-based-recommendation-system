@@ -152,7 +152,3 @@ This project demonstrates how data science and AI can support:
 ## 🌟 Like It? Star It!
 
 If you found this project insightful or inspiring, drop a ⭐ and share it with fellow data scientists!
-
-```
-
-
